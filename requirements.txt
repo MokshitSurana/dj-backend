@@ -115,7 +115,6 @@ pydantic==1.8.2
 pydload==1.0.9
 pyFUME==0.2.25
 Pygments==2.14.0
-pygoogle-image==1.0.0
 PyJWT==2.6.0
 pyngrok==5.2.1
 pyparsing==3.0.9
